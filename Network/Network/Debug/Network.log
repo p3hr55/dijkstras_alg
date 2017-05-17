@@ -1,0 +1,7 @@
+﻿  Network.cpp
+c:\users\brandon\desktop\network\network\associative.h(279): warning C4018: '<': signed/unsigned mismatch
+  c:\users\brandon\desktop\network\network\associative.h(277): note: while compiling class template member function 'int Associative<node>::hash(std::string)'
+  c:\users\brandon\desktop\network\network\associative.h(171): note: see reference to function template instantiation 'int Associative<node>::hash(std::string)' being compiled
+  c:\users\brandon\desktop\network\network\network.cpp(51): note: see reference to class template instantiation 'Associative<node>' being compiled
+c:\users\brandon\desktop\network\network\associative.h(223): warning C4715: 'Associative<node>::operator[]': not all control paths return a value
+  Network.vcxproj -> C:\Users\Brandon\Desktop\Network\Debug\Network.exe

@@ -1,0 +1,58 @@
+Minot			
+Carrington			
+Devils Lake			
+Grand Forks			
+Fargo			
+Jamestown			
+Valley City			
+Williston			
+New Town			
+Beulah			
+Bismarck			
+Rugby			
+Stanley			
+*			
+Minot	Rugby 	65	60
+Rugby	Devils Lake	58	54
+Devils Lake	Grand Forks	90	83
+Grand Forks	Fargo	80	64
+Minot	Carrington	127	127
+Carrington	Jamestown	43	40
+Rugby 	Carrington	98	98
+Jamestown	Valley City	36	29
+Valley City	Fargo	62	50
+Minot	Stanley	55	51
+Stanley	Williston	73	68
+Stanley	New Town	32	32
+New Town	Williston	70	70
+Dickinson	Williston	131	131
+Dickinson	New Town	96	110
+Jamestown	Grand Forks	151	140
+Minot	Beulah	97	97
+Minot	Bismarck	110	95
+Beulah	Dickinson	78	72
+Bismarck	Dickinson	98	78
+Bismarck	Jamestown	102	81
+Minot	New Town	74	74
+Rugby 	Minot	65	60
+Devils Lake	Rugby	58	54
+Grand Forks	Devils Lake	90	83
+Fargo	Grand Forks	80	64
+Carrington	Minot	127	127
+Jamestown	Carrington	43	40
+Carrington	Rugby 	98	98
+Valley City	Jamestown	36	29
+Fargo	Valley City	62	50
+Stanley	Minot	55	51
+Williston	Stanley	73	68
+New Town	Stanley	32	32
+Williston	New Town	70	70
+Williston	Dickinson	131	131
+New Town	Dickinson	96	110
+Grand Forks	Jamestown	151	140
+Beulah	Minot	97	97
+Bismarck	Minot	110	95
+Dickinson	Beulah	78	72
+Dickinson	Bismarck	98	78
+Jamestown	Bismarck	102	81
+New Town	Minot	74	74
